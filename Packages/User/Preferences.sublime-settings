@@ -8,5 +8,7 @@
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
-	"line_padding_top": 1
+	"line_padding_top": 1,
+	"http_proxy": "http://proxy:88",
+	"https_proxy": "http://proxy:88"
 }

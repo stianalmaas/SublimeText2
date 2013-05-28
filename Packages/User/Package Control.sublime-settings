@@ -19,8 +19,14 @@
 		"SublimeREPL",
 		"Tag"
 	],
+	"repositories":
+	[
+		"https://github.com/masondesu/sublime-paredit"
+	],
 	"repository_channels":
 	[
 		"http://sublime.wbond.net/repositories.json"
-	]
+	],
+	"http_proxy": "http://proxy:88",
+	"https_proxy": "http://proxy:88"
 }
