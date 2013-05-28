@@ -1,6 +1,5 @@
 {
 	"auto_upgrade_last_run": null,
-	"http_proxy": "proxy:88",
 	"installed_packages":
 	[
 		"Alignment",
@@ -9,10 +8,12 @@
 		"Emmet",
 		"Git",
 		"GitGutter",
+		"lispindent",
 		"Package Control",
 		"Pretty JSON",
 		"SideBarEnhancements",
 		"sublime-jslint",
+		"sublime-paredit",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeREPL",
