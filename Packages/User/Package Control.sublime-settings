@@ -7,7 +7,6 @@
 		"ClojureDocSearch",
 		"Emmet",
 		"Git",
-		"GitGutter",
 		"lispindent",
 		"Package Control",
 		"Pretty JSON",
@@ -26,7 +25,5 @@
 	"repository_channels":
 	[
 		"http://sublime.wbond.net/repositories.json"
-	],
-	"http_proxy": "http://proxy:88",
-	"https_proxy": "http://proxy:88"
+	]
 }
