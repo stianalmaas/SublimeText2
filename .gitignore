@@ -1,2 +1,5 @@
 *.last-run
 Packages/User/SublimeREPLHistory/
+Packages/User/Package Control.cache/
+Packages/User/Package Control.system-ca-bundle
+Packages/User/*.cache
